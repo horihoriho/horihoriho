@@ -6,7 +6,6 @@ I have worked on the development and mass production of in-vehicle communication
 
 Currently, I am based in Vancouver, Canada, and improving my English and technical skills to build a global engineering career in IoT and cybersecurity.
 
----
 
 ## 💡 Background
 
@@ -15,7 +14,6 @@ Currently, I am based in Vancouver, Canada, and improving my English and technic
 - Strong understanding of wireless communication and network behavior  
 - Experience working in complex system environments with multiple stakeholders  
 
----
 
 ## 🔧 Technical Interests
 
@@ -24,7 +22,6 @@ Currently, I am based in Vancouver, Canada, and improving my English and technic
 - Cybersecurity (Network / IoT Security)  
 - Embedded Systems  
 
----
 
 ## 🛠 Skills
 
@@ -34,7 +31,6 @@ Currently, I am based in Vancouver, Canada, and improving my English and technic
 - Troubleshooting & root cause analysis  
 - Technical documentation  
 
----
 
 ## 🚀 Current Focus
 
@@ -43,7 +39,6 @@ Currently, I am based in Vancouver, Canada, and improving my English and technic
 - Improving practical coding skills (C / C++ / Python)  
 - Strengthening technical English communication  
 
----
 
 ## 📂 Projects
 
@@ -51,7 +46,6 @@ Currently, I am based in Vancouver, Canada, and improving my English and technic
 - MQTT IoT System *(in progress)*  
 - Secure Communication Analysis *(planned)*  
 
----
 
 ## 📫 Contact
 
