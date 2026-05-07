@@ -42,9 +42,12 @@ Currently, I am based in Vancouver, Canada, and improving my English and technic
 
 ## 📂 Projects
 
-- TCP Communication Tool *(in progress)*  
-- MQTT IoT System *(in progress)*  
-- Secure Communication Analysis *(planned)*  
+### TCP Communication Tool
+Built a TCP client-server communication tool with socket programming, logging, timeout handling, and error handling using Python.
+[Repository](https://github.com/horihoriho/tcp-communication-tool-python)
+
+### MQTT IoT System *(in progress)*  
+### Secure Communication Analysis *(planned)*  
 
 
 ## 📫 Contact
